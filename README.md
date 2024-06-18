@@ -11,7 +11,7 @@ This is a simple FastApi application to summarize text
   - pip install -r requirements.txt
 
 ### 3.Run the application:
-  - uvicorn main:app --reload
+  - uvicorn app:app --reload
 
 ### 4.Test the endpoint:
   - Open http://127.0.0.1:8000/notes. 
