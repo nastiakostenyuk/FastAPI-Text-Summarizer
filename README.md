@@ -17,4 +17,4 @@ This is a simple FastApi application to summarize text
   - Open http://127.0.0.1:8000/notes. 
   - Here we can send post requests to the /summarize endpoint for testing. 
   - The post requests should look like this:
-    --{"text" : "text to summarize"}
+    -- {"text" : "text to summarize"}
