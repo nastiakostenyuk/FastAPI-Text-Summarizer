@@ -14,6 +14,6 @@ This is a simple FastApi application to summarize text
   - uvicorn app:app --reload
 
 ### 4.Test the endpoint:
-  - Open http://127.0.0.1:8000/notes. 
+  - Open http://127.0.0.1:8000/docs. 
   - Here we can send post requests to the /summarize endpoint for testing. 
   - The post requests should look like this: {"text" : "text to summarize"}
